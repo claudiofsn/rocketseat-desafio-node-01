@@ -1,0 +1,17 @@
+{
+  "name": "rocketseat-desafio-node-01",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.6.0",
+    "date-fns": "^4.1.0"
+  }
+}
